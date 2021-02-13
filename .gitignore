@@ -1,0 +1,6 @@
+*.bak
+*.rpyc
+*.rpymc
+log.txt
+error.txt
+game/cache
